@@ -1,4 +1,4 @@
-module github.com/caddy-dns/namesilo
+module github.com/and-sha/namesilo
 
 go 1.25
 
